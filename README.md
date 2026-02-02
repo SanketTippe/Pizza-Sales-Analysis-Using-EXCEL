@@ -80,5 +80,5 @@ The objective of this project is to:
 
 ---
 
-## 📂 Repository Structure  
+ 
 
